@@ -2,7 +2,7 @@
 
 Aşağıda projenin kurulumu, test yazımı ve yardımcı araçların kullanımı ile ilgili kısa eğitim videolarını bulabilirsiniz. Her görsel YouTube videosuna linklidir — tıklayarak videoyu YouTube'da izleyebilirsiniz.
 
-
+.
 
 ---
 
