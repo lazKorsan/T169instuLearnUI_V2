@@ -75,21 +75,3 @@ Aşağıda projenin kurulumu, test yazımı ve yardımcı araçların kullanım�
 
 ---
 
-## Açıklamalar / Kullanım
-
-- Her videoya tıklayınca yeni sekmede YouTube açılacaktır.
-- Eğer repoya video thumbnail resimlerini kendiniz eklemek isterseniz, `img.youtube.com` yerine `assets/images/...` gibi yerel yol kullanabilirsiniz (daha fazla kontrol ve offline görünüm için).
-- Daha fazla video eklemek isterseniz tabloya yeni `<tr>` satırları ekleyip aynı yapıyı kullanabilirsiniz (her satır 3 sütun olursa görünüm dengeli kalır).
-
----
-
-## Hızlı commit adımları
-
-1. `CONTRIBUTING.md` dosyasını repo köküne (veya `.github/CONTRIBUTING.md`) kaydedin.
-2. Terminal:
-```bash
-git checkout -b docs/add-contributing-videos
-git add CONTRIBUTING.md
-git commit -m "docs: add contributing videos gallery"
-git push origin docs/add-contributing-videos
-# Ardından GitHub'da PR açın
