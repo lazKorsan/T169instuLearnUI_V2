@@ -4,6 +4,27 @@
 
 **🌐 Test Ortamı:** [https://qa.instulearn.com/](https://qa.instulearn.com/)
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="src/main/resources/anaSayfa.png" alt="Ana Sayfa" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Ana Sayfa</sub>
+    </td>
+    <td align="center">
+      <img src="src/main/resources/studentDashboard.png" alt="Student Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Student Dashboard</sub>
+    </td>
+    <td align="center">
+      <img src="src/main/resources/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Teacher Dashboard</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 📖 Proje Hakkında
@@ -27,26 +48,7 @@ Bu proje, **Instulearn** platformunun kalitesini garanti altına almak için gel
 | ✅ **Modülerlik** | Bakımı kolay ve yeniden kullanılabilir kod yapısı |
 
 ---
-<div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="src/main/resources/anaSayfa.png" alt="Ana Sayfa" style="max-width:320px;width:100%;height:auto;"><br/>
-      <sub>Ana Sayfa</sub>
-    </td>
-    <td align="center">
-      <img src="src/main/resources/studentDashboard.png" alt="Student Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
-      <sub>Student Dashboard</sub>
-    </td>
-    <td align="center">
-      <img src="src/main/resources/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
-      <sub>Teacher Dashboard</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 🛠️ Teknolojiler ve Araçlar
 
