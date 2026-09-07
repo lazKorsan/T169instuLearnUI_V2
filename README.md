@@ -4,12 +4,26 @@
 
 **🌐 Test Ortamı:** [https://qa.instulearn.com/](https://qa.instulearn.com/)
 
-<p align="center">
-  <img src="src/main/resources/anaSayfa.png" alt="Ana Sayfa" style="max-width:300px;width:100%;height:auto;margin:0 8px;">
-  <img src="src/main/resources/studentDashboard.png" alt="Student Dashboard" style="max-width:300px;width:100%;height:auto;margin:0 8px;">
-  <img src="src/main/resources/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:300px;width:100%;height:auto;margin:0 8px;">
-</p>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="src/main/resources/anaSayfa.png" alt="Ana Sayfa" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Ana Sayfa</sub>
+    </td>
+    <td align="center">
+      <img src="src/main/resources/studentDashboard.png" alt="Student Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Student Dashboard</sub>
+    </td>
+    <td align="center">
+      <img src="src/main/resources/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <sub>Teacher Dashboard</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ## 📖 Proje Hakkında
