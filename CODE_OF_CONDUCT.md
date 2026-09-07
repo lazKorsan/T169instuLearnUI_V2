@@ -33,6 +33,7 @@ Bu doküman, test otomasyon projesinde kod kalitesini korumak, Git çakışmalar
   * `Then Admin kullanıcısı paneli görüntüler`
 * **3.2. Etiketleme (Tagging):** Feature dosyalarındaki her senaryoya ilgili User Story numarası ve roller eklenmelidir (`@US025`, `@student`, `@smoke` vb.).
 * **3.3. Reusable Steps:** Mükerrer (duplicate) step tanımlarından kaçınılmalı, mevcut tekrar kullanılabilir adımlar tercih edilmelidir.
+* **3.4. Kendi localinizde gecmeyen testleri push yapmayınız.
 
 ---
 
