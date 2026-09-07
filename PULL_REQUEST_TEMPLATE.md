@@ -50,4 +50,4 @@ PR gönderilmeden önce lütfen aşağıdaki maddeleri kontrol ediniz:
 
 ## 💬 Team Lead / Reviewer Notları
 - [ ] Code Review yapıldı.
-- [ ] Main branch'e merge edilebilir.
+- [ ] Main branch'e merge edilebilir..
