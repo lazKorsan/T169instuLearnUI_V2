@@ -9,15 +9,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="src/main/resources/anaSayfa.png" alt="Ana Sayfa" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/anaSayfa.png" alt="Ana Sayfa" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Ana Sayfa</sub>
     </td>
     <td align="center">
-      <img src="src/main/resources/studentDashboard.png" alt="Student Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/studentDashboard.png" alt="Student Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Student Dashboard</sub>
     </td>
     <td align="center">
-      <img src="src/main/resources/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/teacherDashboard.png" alt="Teacher Dashboard" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Teacher Dashboard</sub>
     </td>
   </tr>
@@ -25,15 +25,15 @@
   <!-- İkinci satır: ileride eklemek istediğiniz ekran görüntüleri -->
   <tr>
     <td align="center">
-      <img src="src/main/resources/accountSettings.png" alt="Account Settings" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/accountSettings.png" alt="Account Settings" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Account Settings</sub>
     </td>
     <td align="center">
-      <img src="src/main/resources/CreateMeetings.png" alt="Create Meetings" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/CreateMeetings.png" alt="Create Meetings" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Create Meetings</sub>
     </td>
     <td align="center">
-      <img src="src/main/resources/createNewCourse.png" alt="Create New Course" style="max-width:320px;width:100%;height:auto;"><br/>
+      <img src="src/main/java/assets/createNewCourse.png" alt="Create New Course" style="max-width:320px;width:100%;height:auto;"><br/>
       <sub>Create New Course</sub>
     </td>
   </tr>
