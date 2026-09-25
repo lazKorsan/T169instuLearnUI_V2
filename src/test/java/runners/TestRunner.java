@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
 				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 		},
 		monochrome = false,
-		tags="@alel",
+		tags="@US005TC02Register",
 		publish=true,
         dryRun = false
 )
