@@ -2,6 +2,7 @@ package stepdefinitions;
 
 import config.ConfigReader;
 import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
@@ -100,6 +101,9 @@ public class VisitorSteps {
     }
 
 
+    @When("Kullanıcı allure report acar")
+    public void kullanıcıAllureReportAcar() {
 
-
+        driver.get("http://127.0.0.1:61962/");
+    }
 }
